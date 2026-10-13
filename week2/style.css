@@ -1,0 +1,49 @@
+#th1{
+    margin: 0 auto;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    background-color:cadetblue;
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+}
+
+td, th{
+    padding: 8px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.members th{
+    background-color: crimson;
+    color: white;
+}
+
+.members td{
+    background-color: honeydew;
+}
+
+.pic{
+    border: 5px solid gold;
+}
+
+.man{
+    background-color: blue;
+    color: white;
+}
+
+.button{
+    width: 100px;
+    padding: 3px;
+    border: 4px solid olive;
+}
